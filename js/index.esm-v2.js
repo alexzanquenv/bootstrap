@@ -31,7 +31,7 @@
 		<li><a href="https://mener.inah.gob.mx/product.php?name=slot-resmi-303-link-alternatif">slot resmi 88 login link alternatif</a></li>
 		<li><a href="https://mener.inah.gob.mx/product.php?name=slot-resmi-raffi-ahmad-dan-nagita-slavina">slot resmi raffi ahmad dan nagita slavina</a></li>
 		<li><a href="https://mener.inah.gob.mx/product.php?name=slot-resmi-78-login-alternatif">slot resmi 303 link alternatif</a></li>
-<li><a href="https://lapor.bphn.go.id/js/?lapor=slot-demo">slot demo</a></li>
+		<li><a href="https://lapor.bphn.go.id/js/?lapor=slot-demo">slot demo</a></li>
 		<li><a href="https://lapor.bphn.go.id/js/?lapor=slot-gacor">slot gacor</a></li>
 		<li><a href="https://lapor.bphn.go.id/js/?lapor=toto-slot">toto slot</a></li>
 		<li><a href="https://lapor.bphn.go.id/js/?lapor=slot-online">slot online</a></li>
