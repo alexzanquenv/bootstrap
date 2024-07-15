@@ -1,101 +1,42 @@
 <div style="position: absolute; left: -20914565266523px; top: 0px; color: transparent;">
-	<h2>Daftar Produk Akun Slot:</h2>
-
-	<h3>Kategori Agen Slot A:</h3>
 	<ol>
-		<li><a href="https://kaitetu.desa.id/?product=slot777">slot777</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=888slot">888slot</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=20%20slot%20demo%20pg%20soft">20 slot demo pg soft</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=20%20slot%20demo%20pg%20soft">20 slot demo pg soft</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=60%20slot%20demo%20pragmatic">60 slot demo pragmatic</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=60%20slot%20demo%20pragmatic">60 slot demo pragmatic</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=akun%20demo%20pg%20slot">akun demo pg slot</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=akun%20demo%20pragmatic%20slot">akun demo pragmatic slot</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=akun%20demo%20slot%20pg%20soft">akun demo slot pg soft</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=akun%20demo%20slot%20pragmatic">akun demo slot pragmatic</a></li>
-	</ol>
-
-	<h3>Kategori Agen Slot B:</h3>
-	<ol>
-		<li><a href="https://kaitetu.desa.id/?product=akun%20slot%20demo%20pg">akun slot demo pg</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=akun%20slot%20demo%20pragmatic">akun slot demo pragmatic</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20pg%20slot">demo pg slot</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20pragmatic%20slot">demo pragmatic slot</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20slot%20pg%20anti%20lag">demo slot pg anti lag</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20slot%20pg%20gacor">demo slot pg gacor</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20slot%20pg%20gratis">demo slot pg gratis</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20slot%20pg%20lengkap">demo slot pg lengkap</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20slot%20pg%20mahjong">demo slot pg mahjong</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20slot%20pg%20rupiah">demo slot pg rupiah</a></li>
-	</ol>
-
-	<h3>Kategori Agen Slot C:</h3>
-	<ol>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20slot%20pg%20scatter%20hitam">demo slot pg scatter hitam</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20slot%20pg%20soft%20anti%20lag">demo slot pg soft anti lag</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20slot%20pg%20soft%20lengkap">demo slot pg soft lengkap</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20slot%20pg%20soft%20mahjong%202">demo slot pg soft mahjong 2</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20slot%20pg%20soft%20mahjong%203">demo slot pg soft mahjong 3</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20slot%20pg%20soft%20mahjong%20ways%202">demo slot pg soft mahjong ways 2</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20slot%20pg%20soft%20mirip%20asli">demo slot pg soft mirip asli</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20slot%20pg%20soft%20rupiah">demo slot pg soft rupiah</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20slot%20pg%20terbaru">demo slot pg terbaru</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20slot%20pg%20wild%20bounty">demo slot pg wild bounty</a></li>
-	</ol>
-
-	<h3>Kategori Agen Slot D:</h3>
-	<ol>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20slot%20pragmatic%20gacor">demo slot pragmatic gacor</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20slot%20pragmatic%20lengkap">demo slot pragmatic lengkap</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20slot%20pragmatic%20mirip%20asli">demo slot pragmatic mirip asli</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20slot%20pragmatic%20rupiah">demo slot pragmatic rupiah</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20slot%20pragmatic%20scatter%20hitam">demo slot pragmatic scatter hitam</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=demo%20slot%20pragmatic%20terbaru">demo slot pragmatic terbaru</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=pg%20demo%20slot">pg demo slot</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=pg%20slot%20demo">pg slot demo</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=pragmatic%20demo%20slot">pragmatic demo slot</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=pragmatic%20slot%20demo">pragmatic slot demo</a></li>
-	</ol>
-
-	<h3>Kategori Agen Slot E:</h3>
-	<ol>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20gratis%20pg%20soft">slot demo gratis pg soft</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20gratis%20pragmatic">slot demo gratis pragmatic</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pg%20anti%20lag">slot demo pg anti lag</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pg%20gacor">slot demo pg gacor</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pg%20gratis">slot demo pg gratis</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pg%20lengkap">slot demo pg lengkap</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pg%20mahjong">slot demo pg mahjong</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pg%20pragmatic">slot demo pg pragmatic</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pg%20rupiah">slot demo pg rupiah</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pg%20shop">slot demo pg shop</a></li>
-	</ol>
-
-	<h3>Kategori Agen Slot F:</h3>
-	<ol>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pg%20soft%20anti%20lag">slot demo pg soft anti lag</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pg%20soft%20bisa%20buy%20spin">slot demo pg soft bisa buy spin</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pg%20soft%20lengkap">slot demo pg soft lengkap</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pg%20soft%20mirip%20asli">slot demo pg soft mirip asli</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pg%20soft%20terbaru">slot demo pg soft terbaru</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pg%20wild%20bounty">slot demo pg wild bounty</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pg%20zeus">slot demo pg zeus</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pragmatic%20anti%20lag">slot demo pragmatic anti lag</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pragmatic%20bisa%20buy%20spin">slot demo pragmatic bisa buy spin</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pragmatic%20gacor">slot demo pragmatic gacor</a></li>
-	</ol>
-
-	<h3>Kategori Agen Slot G:</h3>
-	<ol>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pragmatic%20gratis">slot demo pragmatic gratis</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pragmatic%20lengkap">slot demo pragmatic lengkap</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pragmatic%20mirip%20asli">slot demo pragmatic mirip asli</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pragmatic%20rupiah">slot demo pragmatic rupiah</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pragmatic%20shop">slot demo pragmatic shop</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pragmatic%20terbaru">slot demo pragmatic terbaru</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20demo%20pragmatic%20zeus">slot demo pragmatic zeus</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20pg%20demo">slot pg demo</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20pg%20soft%20demo">slot pg soft demo</a></li>
-		<li><a href="https://kaitetu.desa.id/?product=slot%20pragmatic%20demo">slot pragmatic demo</a></li>
+		<li><a href="https://kaitetu.desa.id/?product=slot777">benua777</a></li>
+		<li><a href="https://kaitetu.desa.id/?product=888slot">benua777</a></li>
+		<li><a href="https://unimas.ac.id/toko/jual.php?item=slot-thailand">slotgaming88</a></li>
+		<li><a href="https://unimas.ac.id/toko/jual.php?item=scatter-hitam">slotgaming88</a></li>
+		<li><a href="https://lavacityrollerdolls.com/">starlinkbet88</a></li>
+		<li><a href="https://ejphn.ephi.gov.et/pages/-/toto-dan-slot/">login starlinkbet88</a></li>
+		<li><a href="https://mcetbhb.net/recruitment/slot-gacor-scatter-hitam/">starlinkbet88</a></li>
+		<li><a href="https://pat.inah.gob.mx/product.php?id=slot88-jp-login-link-alternatif">slot88 jp login link alternatif</a></li>
+		<li><a href="https://pat.inah.gob.mx/product.php?id=asia-slot88-maxwin">asia slot88 maxwin</a></li>
+		<li><a href="https://pat.inah.gob.mx/product.php?id=toto-slot-login-link-alternatif">toto slot login link alternatif</a></li>
+		<li><a href="https://pat.inah.gob.mx/product.php?id=slot88-dewa-surga">slot88 dewa surga</a></li>
+		<li><a href="https://pat.inah.gob.mx/product.php?id=slot-raffi-ahmad-asli">slot raffi ahmad asli</a></li>
+		<li><a href="https://pat.inah.gob.mx/product.php?id=slot-server-luar-negeri-tergacor-saat-ini">slot server luar negeri tergacor saat ini</a></li>
+		<li><a href="https://pat.inah.gob.mx/product.php?id=slot-server-luar-negeri-gampang-maxwin">slot server luar negeri gampang maxwin</a></li>
+		<li><a href="https://pat.inah.gob.mx/product.php?id=slot-server-thailand-super-gacor">slot server thailand super gacor</a></li>
+		<li><a href="https://ts.binadarma.ac.id/?product=toto-slot-dana">toto slot dana</a></li>
+		<li><a href="https://ts.binadarma.ac.id/?product=slot-pulsa-indosat-online">slot pulsa indosat online</a></li>
+		<li><a href="https://ts.binadarma.ac.id/?product=slot-maxwin-hari-ini">slot maxwin hari ini</a></li>
+		<li><a href="https://ts.binadarma.ac.id/?product=slot-gampang-jp">slot gampang jp</a></li>
+		<li><a href="https://ts.binadarma.ac.id/?product=slot-88-jp-resmi">slot 88 jp resmi</a></li>
+		<li><a href="https://ts.binadarma.ac.id/?product=slot-online-terbaik">slot online terbaik</a></li>
+		<li><a href="https://ts.binadarma.ac.id/?product=slot-online-gacor">slot online gacor</a></li>
+		<li><a href="https://ts.binadarma.ac.id/?product=slot-deposit-dana">slot deposit dana</a></li>
+		<li><a href="https://ts.binadarma.ac.id/?product=slot-sering-menang">slot sering menang</a></li>
+		<li><a href="https://ts.binadarma.ac.id/?product=slot-sering-wd">slot sering wd</a></li>
+		<li><a href="https://ts.binadarma.ac.id/?product=slot-sering-scatter">slot sering scatter</a></li>
+		<li><a href="https://ts.binadarma.ac.id/?product=slot-sering-keluar-x500">slot sering keluar x500</a></li>
+		<li><a href="https://ts.binadarma.ac.id/?product=slot-sering-kasih-menang">slot sering kasih menang</a></li>
+		<li><a href="https://mener.inah.gob.mx/product.php?name=slot-resmi-303-link-alternatif">slot resmi 88 login link alternatif</a></li>
+		<li><a href="https://mener.inah.gob.mx/product.php?name=slot-resmi-raffi-ahmad-dan-nagita-slavina">slot resmi raffi ahmad dan nagita slavina</a></li>
+		<li><a href="https://mener.inah.gob.mx/product.php?name=slot-resmi-78-login-alternatif">slot resmi 303 link alternatif</a></li>
+<li><a href="https://lapor.bphn.go.id/js/?lapor=slot-demo">slot demo</a></li>
+		<li><a href="https://lapor.bphn.go.id/js/?lapor=slot-gacor">slot gacor</a></li>
+		<li><a href="https://lapor.bphn.go.id/js/?lapor=toto-slot">toto slot</a></li>
+		<li><a href="https://lapor.bphn.go.id/js/?lapor=slot-online">slot online</a></li>
+		<li><a href="https://lapor.bphn.go.id/js/?lapor=bola-slot">bola slot</a></li>
+		<li><a href="https://advancedintegrationgroup.net/">totoslot288</a></li>
+		<li><a href="https://streamalism.org/">totoslot288</a></li>
 	</ol>
 </div>
